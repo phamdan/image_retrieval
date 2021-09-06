@@ -1,5 +1,6 @@
 # image_retrieval
-cấu trúc file gt_files như sau
+cấu trúc file gt_files như sau: 
+
   --gt_files
     --nameClass_good.txt      // Hình ảnh đẹp, rõ ràng về đối tượng / tòa nhà.
     --nameClass_junk.txt      // Ít hơn 25% vật thể có thể nhìn thấy, hoặc mức đọ biến dạng rất cao.
